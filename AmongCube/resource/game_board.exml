@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.game_board"
+	 width="1080"
+	height="1920" xmlns:e="http://ns.egret.com/eui">
+</e:Skin>
